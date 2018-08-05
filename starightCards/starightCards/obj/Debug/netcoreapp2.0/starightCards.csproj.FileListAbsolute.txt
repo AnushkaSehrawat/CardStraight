@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\starightCards\starightCards\bin\Debug\netcoreapp2.0\starightCards.deps.json
+C:\Users\Admin\source\repos\starightCards\starightCards\bin\Debug\netcoreapp2.0\starightCards.runtimeconfig.json
+C:\Users\Admin\source\repos\starightCards\starightCards\bin\Debug\netcoreapp2.0\starightCards.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\starightCards\starightCards\bin\Debug\netcoreapp2.0\starightCards.dll
+C:\Users\Admin\source\repos\starightCards\starightCards\bin\Debug\netcoreapp2.0\starightCards.pdb
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.AssemblyInfo.cs
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.dll
+C:\Users\Admin\source\repos\starightCards\starightCards\obj\Debug\netcoreapp2.0\starightCards.pdb
